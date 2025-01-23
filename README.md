@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />Belajar GraphQL 🐬
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  /> Belajar GraphQL 🐬
 
 Repository ini berisi materi dan contoh implementasi **GraphQL** untuk membantu memahami konsep, cara kerja, dan penggunaannya dalam pengembangan aplikasi.
 
